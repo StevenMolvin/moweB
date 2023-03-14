@@ -1,8 +1,16 @@
-body {
-  background-color: aqua;
+html, body{
+  
+  background-image: url("new.jpg")  ;
+
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   text-align: center;
-  color: gray;
+  color: wheat;
+  font-family: 'Gill Sans';
+}
+h2 {
+  color: darkred;
 }
 
